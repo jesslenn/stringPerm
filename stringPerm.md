@@ -143,5 +143,8 @@ _Feel free to PR any useful resources! :)_
 - [Sample Slides](http://slides.com/seemaullal/reacto#/)
 - [REPL walkthrough](https://repl.it/lFv/49)
 - [Similar Problem - AlgoExpert Link](https://www.algoexpert.io/questions/Permutations)
+- [The Dynamic Programming Solution](http://log.manl.io/cs/permutations-of-a-string-dynamic-programming-with-python/)
+- [Another Recursive Solution - with Recursive Trees and Master Theorem](https://levelup.gitconnected.com/find-all-permutations-of-a-string-in-javascript-af41bfe072d2)
+- [One Last Recursive Solution](https://medium.com/swlh/step-by-step-guide-to-solving-string-permutation-using-recursion-in-javascript-a11d098d5b83)
 
 ---
